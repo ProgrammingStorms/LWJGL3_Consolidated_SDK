@@ -1,0 +1,55 @@
+===============================================================================
+                       CUSTOM LWJGL 3 DISTRIBUTION PACKAGE
+===============================================================================
+
+Copyright (c) 2026 LWJGL_ALL; ProgrammingStorms
+
+Niniejsza paczka stanowi niestandardową, skonsolidowaną dystrybucję typu SDK 
+biblioteki LWJGL 3 oraz powiązanych natywnych modułów multimedialnych. 
+
+Oryginalne pliki binarne oraz kody źródłowe użytych bibliotek NIE są moją własnością. 
+Moja praca polegała wyłącznie na scaleniu kodu Java, integracji plików natywnych 
+dla systemu Windows i Linux w jedną strukturę oraz przygotowaniu spójnego pakietu 
+dystrybucyjnego w celu ułatwienia konfiguracji środowiska programistycznego.
+
+-------------------------------------------------------------------------------
+1. LICENCJA DLA TEJ DYSTRYBUCJI
+-------------------------------------------------------------------------------
+Część dystrybucyjna stworzona przeze mnie jest udostępniana na warunkach licencji MIT:
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------------
+2. LICENCJE KOMPONENTÓW TRZECICH
+-------------------------------------------------------------------------------
+Wszystkie zawarte w tym archiwum biblioteki należą do ich prawnych właścicieli 
+i są dystrybuowane zgodnie z ich oryginalnymi licencjami open-source. 
+
+Pełne teksty poszczególnych licencji znajdują się w dołączonych plikach w tym archiwum:
+
+* LWJGL 3 Core -> zobacz: LWJGL_LICENSE.txt
+* GLFW Window/Input -> zobacz: GLFW_LICENSE.txt
+* OpenAL Soft Audio/Sound -> zobacz: OPENAL_SOFT_LICENSE.txt
+* OpenGL/OpenCL Graphics/Compute -> zobacz: KHRONOS_LICENSE.txt
+* TinyFD FileDialog -> zobacz: TINYFD_LICENSE.txt
+* STB Loaders/Image/Music -> zobacz: STB_LICENSE.txt
+* Biblioteki natywne: liburing, libffi Util/Native -> zobacz: LIBURING_LICENSE.txt oraz LIBFFI_LICENSE.txt
+
+Wszystkie prawa autorskie oryginalnych twórców zostały zachowane.
+===============================================================================
